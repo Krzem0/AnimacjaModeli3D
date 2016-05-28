@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimacjaModeli3D", "AnimacjaModeli3D\AnimacjaModeli3D\AnimacjaModeli3D.csproj", "{B7C6F036-3581-486E-B295-0CA7C2C1F958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimacjaModeli3DContent", "AnimacjaModeli3D\AnimacjaModeli3DContent\AnimacjaModeli3DContent.contentproj", "{96ED68E1-4A55-4706-8ED1-9AAFE08D6F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModel", "SkinnedModel\SkinnedModel.csproj", "{4F9659EC-F241-4ED6-9592-AB98A476ECAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModelPipeline", "SkinnedModelPipeline\SkinnedModelPipeline.csproj", "{E32C197E-91BC-4DDB-AA99-F4D0721B1E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C6F036-3581-486E-B295-0CA7C2C1F958}.Debug|x86.ActiveCfg = Debug|x86
+		{B7C6F036-3581-486E-B295-0CA7C2C1F958}.Debug|x86.Build.0 = Debug|x86
+		{B7C6F036-3581-486E-B295-0CA7C2C1F958}.Release|x86.ActiveCfg = Release|x86
+		{B7C6F036-3581-486E-B295-0CA7C2C1F958}.Release|x86.Build.0 = Release|x86
+		{96ED68E1-4A55-4706-8ED1-9AAFE08D6F57}.Debug|x86.ActiveCfg = Debug|x86
+		{96ED68E1-4A55-4706-8ED1-9AAFE08D6F57}.Release|x86.ActiveCfg = Release|x86
+		{4F9659EC-F241-4ED6-9592-AB98A476ECAC}.Debug|x86.ActiveCfg = Debug|x86
+		{4F9659EC-F241-4ED6-9592-AB98A476ECAC}.Debug|x86.Build.0 = Debug|x86
+		{4F9659EC-F241-4ED6-9592-AB98A476ECAC}.Release|x86.ActiveCfg = Release|x86
+		{4F9659EC-F241-4ED6-9592-AB98A476ECAC}.Release|x86.Build.0 = Release|x86
+		{E32C197E-91BC-4DDB-AA99-F4D0721B1E00}.Debug|x86.ActiveCfg = Debug|x86
+		{E32C197E-91BC-4DDB-AA99-F4D0721B1E00}.Debug|x86.Build.0 = Debug|x86
+		{E32C197E-91BC-4DDB-AA99-F4D0721B1E00}.Release|x86.ActiveCfg = Debug|x86
+		{E32C197E-91BC-4DDB-AA99-F4D0721B1E00}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
